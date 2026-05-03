@@ -1,8 +1,7 @@
-This folder contains all code used for the TMLR paper: "Paradoxical noise preference in RNNs" by Noah I. Eckstein and Manoj Srinivasan
+This folder contains all code used for the TMLR paper: "Paradoxical noise preference in RNNs" by Noah I. Eckstein and Manoj Srinivasan, 2026. For additional guidance, please email the first author of the paper, who wrote all the code and created this code repository: Noah I. Eckstein, eckstein.81@buckeyemail.osu.edu
 
 All codes are in MATLAB, and may be run locally. Run codes to find any dependencies on toolboxes that you do not have. See descriptions/instructions in the ReadMe files in each subfolder and in the comments within the codes. All codes beginning with “root_” are runnable scripts, and all other .m files are functions called by the scripts.
 
-For additional guidance, please email the first author of the paper, who wrote all the code and created this code repository: Noah I. Eckstein, eckstein.81@buckeyemail.osu.edu
 
 Abstract of the manuscript:
 
